@@ -103,4 +103,7 @@ a {
   .firstPart {
     flex-direction: column;
   }
+  .second_word_part {
+    margin-left: 0rem;
+  }
 }
